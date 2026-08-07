@@ -1,0 +1,312 @@
+﻿[
+    {
+        "name":  "Clotho-AQA",
+        "release":  "2022-04",
+        "organization":  "Tampere University",
+        "venue":  "EUSIPCO\u002722",
+        "paper":  "https://arxiv.org/abs/2204.09634",
+        "code":  null,
+        "data":  "https://zenodo.org/record/6473207",
+        "focus":  "crowdsourced audio question answering over environmental sound clips"
+    },
+    {
+        "name":  "Dynamic-SUPERB",
+        "release":  "2023-09",
+        "organization":  "National Taiwan University et al.",
+        "venue":  "ICASSP\u002724",
+        "paper":  "https://arxiv.org/abs/2309.09510",
+        "code":  "https://github.com/dynamic-superb/dynamic-superb",
+        "data":  null,
+        "focus":  "instruction-based universal speech model evaluation across 55 classification tasks"
+    },
+    {
+        "name":  "CompA",
+        "release":  "2023-10",
+        "organization":  "University of Maryland",
+        "venue":  "ICLR\u002724",
+        "paper":  "https://arxiv.org/abs/2310.08753",
+        "code":  "https://github.com/Sreyan88/CompA",
+        "data":  "https://sreyan88.github.io/compa_iclr/",
+        "focus":  "compositional reasoning over acoustic event order and attribute binding"
+    },
+    {
+        "name":  "AIR-Bench",
+        "release":  "2024-02",
+        "organization":  "Zhejiang University \u0026 Alibaba",
+        "venue":  "ACL\u002724",
+        "paper":  "https://arxiv.org/abs/2402.07729",
+        "code":  "https://github.com/OFA-Sys/AIR-Bench",
+        "data":  "https://huggingface.co/datasets/qyang1021/AIR-Bench-Dataset",
+        "focus":  "19-task foundation MCQs plus open-ended chat evaluation over speech, sound, music"
+    },
+    {
+        "name":  "AudioHallucination",
+        "release":  "2024-06",
+        "organization":  "National Taiwan University",
+        "venue":  "Interspeech\u002724",
+        "paper":  "https://arxiv.org/abs/2406.08402",
+        "code":  "https://github.com/kuan2jiu99/audio-hallucination",
+        "data":  null,
+        "focus":  "object hallucination probing of LALMs via sound-object discriminative queries"
+    },
+    {
+        "name":  "SD-Eval",
+        "release":  "2024-06",
+        "organization":  "CUHK \u0026 ByteDance",
+        "venue":  "NeurIPS\u002724",
+        "paper":  "https://arxiv.org/abs/2406.13340",
+        "code":  "https://github.com/AmphionTeam/SD-Eval",
+        "data":  null,
+        "focus":  "spoken dialogue understanding beyond words: emotion, accent, age, background sound"
+    },
+    {
+        "name":  "AudioBench",
+        "release":  "2024-06",
+        "organization":  "A*STAR I2R (Singapore)",
+        "venue":  "NAACL\u002725",
+        "paper":  "https://arxiv.org/abs/2406.16020",
+        "code":  "https://github.com/AudioLLMs/AudioBench",
+        "data":  "https://huggingface.co/spaces/MERaLiON/AudioBench-Leaderboard",
+        "focus":  "multi-dataset AudioLLM evaluation of speech, voice, and audio-scene understanding"
+    },
+    {
+        "name":  "Audio Entailment",
+        "release":  "2024-07",
+        "organization":  "CMU \u0026 Microsoft",
+        "venue":  "AAAI\u002725",
+        "paper":  "https://arxiv.org/abs/2407.18062",
+        "code":  "https://github.com/microsoft/AudioEntailment",
+        "data":  null,
+        "focus":  "deductive reasoning: entailment/neutral/contradiction of hypotheses against audio premises"
+    },
+    {
+        "name":  "MuChoMusic",
+        "release":  "2024-08",
+        "organization":  "UPF \u0026 QMUL",
+        "venue":  "ISMIR\u002724",
+        "paper":  "https://arxiv.org/abs/2408.01337",
+        "code":  "https://github.com/mulab-mir/muchomusic",
+        "data":  "https://huggingface.co/datasets/mulab-mir/muchomusic",
+        "focus":  "1,187 human-validated MCQs on music knowledge and reasoning"
+    },
+    {
+        "name":  "SALMon",
+        "release":  "2024-09",
+        "organization":  "Hebrew University of Jerusalem",
+        "venue":  "ICASSP\u002725",
+        "paper":  "https://arxiv.org/abs/2409.07437",
+        "code":  "https://github.com/slp-rl/salmon",
+        "data":  "https://huggingface.co/datasets/slprl/SALMon",
+        "focus":  "acoustic consistency scoring (speaker, gender, sentiment, noise, room) for speech LMs"
+    },
+    {
+        "name":  "VoiceBench",
+        "release":  "2024-10",
+        "organization":  "National University of Singapore",
+        "venue":  "TACL\u002726",
+        "paper":  "https://arxiv.org/abs/2410.17196",
+        "code":  "https://github.com/MatthewCYM/VoiceBench",
+        "data":  "https://huggingface.co/datasets/hlt-lab/voicebench",
+        "focus":  "multi-facet voice-assistant evaluation under speaker, environment, and content variations"
+    },
+    {
+        "name":  "MMAU",
+        "release":  "2024-10",
+        "organization":  "University of Maryland \u0026 Adobe",
+        "venue":  "ICLR\u002725",
+        "paper":  "https://arxiv.org/abs/2410.19168",
+        "code":  "https://github.com/Sakshi113/MMAU",
+        "data":  "https://sakshi113.github.io/mmau_homepage/",
+        "focus":  "10k expert MCQs testing 27 audio understanding and reasoning skills over speech, sound, music"
+    },
+    {
+        "name":  "Dynamic-SUPERB Phase-2",
+        "release":  "2024-11",
+        "organization":  "National Taiwan University et al.",
+        "venue":  "ICLR\u002725",
+        "paper":  "https://arxiv.org/abs/2411.05361",
+        "code":  "https://github.com/dynamic-superb/dynamic-superb",
+        "data":  null,
+        "focus":  "community-expanded 180-task benchmark for instruction-following speech/audio/music models"
+    },
+    {
+        "name":  "ADU-Bench",
+        "release":  "2024-12",
+        "organization":  "Tsinghua University \u0026 University of Oxford",
+        "venue":  "ACL\u002725",
+        "paper":  "https://arxiv.org/abs/2412.05167",
+        "code":  "https://github.com/KuofengGao/ADU-Bench",
+        "data":  null,
+        "focus":  "open-ended audio dialogue understanding across general, skill, multilingual, ambiguity scenarios"
+    },
+    {
+        "name":  "Big Bench Audio",
+        "release":  "2024-12",
+        "organization":  "Artificial Analysis",
+        "venue":  "dataset release",
+        "paper":  null,
+        "code":  null,
+        "data":  "https://huggingface.co/datasets/ArtificialAnalysis/big_bench_audio",
+        "focus":  "Big Bench Hard reasoning questions rendered as audio to measure the speech reasoning gap"
+    },
+    {
+        "name":  "VoxEval",
+        "release":  "2025-01",
+        "organization":  "CUHK",
+        "venue":  "ACL\u002725",
+        "paper":  "https://arxiv.org/abs/2501.04962",
+        "code":  "https://github.com/dreamtheater123/VoxEval",
+        "data":  null,
+        "focus":  "speech-in speech-out knowledge QA with robustness across audio conditions"
+    },
+    {
+        "name":  "URO-Bench",
+        "release":  "2025-02",
+        "organization":  "SJTU",
+        "venue":  "EMNLP\u002725 Findings",
+        "paper":  "https://arxiv.org/abs/2502.17810",
+        "code":  "https://github.com/Ruiqi-Yan/URO-Bench",
+        "data":  "https://huggingface.co/datasets/Honggao/URO-Bench",
+        "focus":  "end-to-end spoken dialogue: understanding, reasoning, oral conversation incl. paralinguistics"
+    },
+    {
+        "name":  "RUListening",
+        "release":  "2025-04",
+        "organization":  "UC San Diego",
+        "venue":  "ISMIR\u002725",
+        "paper":  "https://arxiv.org/abs/2504.00369",
+        "code":  "https://github.com/yongyizang/AreYouReallyListening",
+        "data":  "https://huggingface.co/datasets/yongyizang/RUListening",
+        "focus":  "perception-forcing music-QA distractors that defeat text-only shortcuts"
+    },
+    {
+        "name":  "TACOS",
+        "release":  "2025-05",
+        "organization":  "Johannes Kepler University Linz",
+        "venue":  "arXiv\u002725",
+        "paper":  "https://arxiv.org/abs/2505.07609",
+        "code":  "https://github.com/OptimusPrimus/tacos",
+        "data":  "https://zenodo.org/records/15379789",
+        "focus":  "temporally-aligned captions for frame-level audio-text alignment and temporal grounding"
+    },
+    {
+        "name":  "MMAR",
+        "release":  "2025-05",
+        "organization":  "SJTU et al.",
+        "venue":  "NeurIPS\u002725",
+        "paper":  "https://arxiv.org/abs/2505.13032",
+        "code":  "https://github.com/ddlBoJack/MMAR",
+        "data":  "https://huggingface.co/datasets/BoJack/MMAR",
+        "focus":  "1,000 multi-step deep-reasoning QAs over speech, sound, music, and their mix"
+    },
+    {
+        "name":  "TREA",
+        "release":  "2025-05",
+        "organization":  "Indian Institute of Science",
+        "venue":  "Interspeech\u002725",
+        "paper":  "https://arxiv.org/abs/2505.13115",
+        "code":  null,
+        "data":  null,
+        "focus":  "temporal reasoning (event duration, ordering, counting) with confidence calibration"
+    },
+    {
+        "name":  "SAKURA",
+        "release":  "2025-05",
+        "organization":  "National Taiwan University",
+        "venue":  "Interspeech\u002725",
+        "paper":  "https://arxiv.org/abs/2505.13237",
+        "code":  "https://github.com/ckyang1124/SAKURA",
+        "data":  null,
+        "focus":  "single- vs multi-hop reasoning grounded in speech/audio attributes"
+    },
+    {
+        "name":  "AudioTrust",
+        "release":  "2025-05",
+        "organization":  "Tsinghua University et al.",
+        "venue":  "arXiv\u002725",
+        "paper":  "https://arxiv.org/abs/2505.16211",
+        "code":  "https://github.com/JusperLee/AudioTrust",
+        "data":  "https://huggingface.co/datasets/JusperLee/AudioTrust",
+        "focus":  "trustworthiness: fairness, hallucination, safety, privacy, robustness, authentication"
+    },
+    {
+        "name":  "Speech-IFEval",
+        "release":  "2025-05",
+        "organization":  "National Taiwan University",
+        "venue":  "Interspeech\u002725",
+        "paper":  "https://arxiv.org/abs/2505.19037",
+        "code":  "https://github.com/kehanlu/Speech-IFEval",
+        "data":  null,
+        "focus":  "instruction following and catastrophic forgetting in speech-aware LMs"
+    },
+    {
+        "name":  "MMSU",
+        "release":  "2025-06",
+        "organization":  "CUHK",
+        "venue":  "ICLR\u002726",
+        "paper":  "https://arxiv.org/abs/2506.04779",
+        "code":  "https://github.com/dingdongwang/MMSU",
+        "data":  "https://huggingface.co/datasets/ddwang2000/MMSU",
+        "focus":  "47-task spoken language understanding spanning phonetics, prosody, semantics, paralinguistics"
+    },
+    {
+        "name":  "MECAT",
+        "release":  "2025-07",
+        "organization":  "Xiaomi",
+        "venue":  "ICML\u002726",
+        "paper":  "https://arxiv.org/abs/2507.23511",
+        "code":  "https://github.com/xiaomi-research/mecat",
+        "data":  "https://huggingface.co/datasets/mispeech/MECAT-Caption",
+        "focus":  "fine-grained audio captioning and open-set QA with discriminability-aware DATE metric"
+    },
+    {
+        "name":  "MMAU-Pro",
+        "release":  "2025-08",
+        "organization":  "University of Maryland \u0026 NVIDIA",
+        "venue":  "arXiv\u002725",
+        "paper":  "https://arxiv.org/abs/2508.13992",
+        "code":  "https://github.com/sonalkum/MMAUPro",
+        "data":  "https://huggingface.co/datasets/gamma-lab-umd/MMAU-Pro",
+        "focus":  "49-skill audio general intelligence incl. long-form, spatial, multi-audio, instruction following"
+    },
+    {
+        "name":  "AHELM",
+        "release":  "2025-08",
+        "organization":  "Stanford CRFM, UCSC \u0026 Hitachi America",
+        "venue":  "arXiv\u002725",
+        "paper":  "https://arxiv.org/abs/2508.21376",
+        "code":  "https://github.com/stanford-crfm/helm",
+        "data":  "https://crfm.stanford.edu/helm/audio/latest/",
+        "focus":  "holistic 10-aspect ALM evaluation incl. perception, reasoning, fairness, toxicity, safety"
+    },
+    {
+        "name":  "AudioMCQ",
+        "release":  "2025-09",
+        "organization":  "Ant Group (InclusionAI)",
+        "venue":  "ICLR\u002726",
+        "paper":  "https://arxiv.org/abs/2509.21060",
+        "code":  "https://github.com/inclusionAI/AudioMCQ",
+        "data":  "https://huggingface.co/datasets/inclusionAI/AudioMCQ",
+        "focus":  "571k audio MCQs with dual CoT annotations and weak/strong audio-contribution splits"
+    },
+    {
+        "name":  "AudioMarathon",
+        "release":  "2025-10",
+        "organization":  "SJTU \u0026 Shanghai AI Lab",
+        "venue":  "arXiv\u002725",
+        "paper":  "https://arxiv.org/abs/2510.07293",
+        "code":  "https://github.com/DabDans/AudioMarathon",
+        "data":  "https://huggingface.co/datasets/Hezep/AudioMarathon",
+        "focus":  "long-context audio understanding and inference efficiency over 90-300s speech, sound, music"
+    },
+    {
+        "name":  "AQUA-Bench",
+        "release":  "2026-01",
+        "organization":  "National Taiwan University",
+        "venue":  "arXiv\u002726",
+        "paper":  "https://arxiv.org/abs/2601.12248",
+        "code":  null,
+        "data":  null,
+        "focus":  "unanswerable-question detection and abstention behavior in audio question answering"
+    }
+]
