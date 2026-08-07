@@ -1,5 +1,5 @@
 $ErrorActionPreference = 'Stop'
-$repo = "$env:USERPROFILE\github\awesome-lalm"
+$repo = Split-Path $PSScriptRoot -Parent
 $lines = Get-Content "$repo\README.md" -Encoding UTF8
 
 $green = [char]::ConvertFromUtf32(0x1F7E2)
