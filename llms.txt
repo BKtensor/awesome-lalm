@@ -1,0 +1,11 @@
+# Awesome Large Audio Language Models
+
+> A chronological index of Large Audio Language Models (LALMs) — foundation models that couple audio perception (speech, sound, music) with a large language model. Covers 102 models (2023-2026) and 31 evaluation benchmarks, each with venue, open/closed weights, paper, code, and checkpoint links.
+
+LALMs are also referred to as audio LLMs, audio-language models, or speech LLMs. This index includes audio-understanding models, audio reasoning models, speech-dialogue LLMs, and omni models with native audio input. Pure TTS, codecs, ASR-only, and audio-generation-only models are out of scope.
+
+## Index
+
+- [README](https://github.com/snkii/awesome-lalm/blob/main/README.md): full tables by year (2023, 2024, 2025, 2026) plus benchmarks
+- [models.json](https://raw.githubusercontent.com/snkii/awesome-lalm/main/models.json): machine-readable model index — fields: name, release, organization, venue, paper, code, weights, huggingface, notes
+- [benchmarks.json](https://raw.githubusercontent.com/snkii/awesome-lalm/main/benchmarks.json): machine-readable benchmark index — fields: name, release, organization, venue, paper, code, data, focus
