@@ -8,7 +8,7 @@ The scope is **audio-understanding foundation models** as defined in the [Scope]
 
 ## Adding a model
 
-Add the model to the right year's table in the README, sorted by first public release date, in this format:
+Add the model to the right year's table in the README. Years run newest first, and rows inside each year are sorted by first public release date, newest at the top. Use this format:
 
 ```
 | **Model** | YYYY-MM | Organization | Venue | [📄](paper) | [💻](code) | [🤗](weights) | one-line note |
