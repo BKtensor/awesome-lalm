@@ -58,6 +58,7 @@ Sorted by first public release, oldest first.
 
 | Model | Release | Organization | Venue | 📄 | 💻 | 🤗 | Notes |
 |---|---|---|---|:---:|:---:|:---:|---|
+| **DuplexJev** | 2026-10 | Adventists AI | arXiv'26 | [📄](https://arxiv.org/abs/2610.02638) | [💻](https://github.com/adventists-ai/duplexjev) | [🤗](https://huggingface.co/adventists-ai) | frozen speech LLM read out with a single constrained token: turn-taking and paralinguistic decisions (emotion, stress, non-verbal) in one forward pass, no decoding (weights CC BY-NC) |
 | **Sori-1B** | 2026-08 | Human Interface Lab, Seoul National University | model release | — | — | [🤗](https://huggingface.co/snkii/Sori-1B) | 1B decoder trained from scratch — no language-only pretraining and no pretrained-LM init; every text token predicted in the presence of audio, over an auditory-ontology vocabulary (gated, academic use) |
 | **SeedRealtime** | 2026-08 | ByteDance (Seed) | company release | — | — | 🔒 | native audio-visual full-duplex LLM over continuous streams without external VAD |
 | **GPT-Live-1** | 2026-07 | OpenAI | company release | — | — | 🔒 | full-duplex ChatGPT voice model that listens and speaks simultaneously |
